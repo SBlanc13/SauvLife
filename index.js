@@ -39,15 +39,16 @@ const client = new Client({
 
 let status = [
   {
-    name: "Activity 1",
+    name: "Sauv'Life",
     type: ActivityType.Watching,
   },
   {
-    name: "Activity 2",
-    type: ActivityType.Watching,
+    name: "Sauv'Life",
+    type: ActivityType.Streaming,
+    url: "https://www.youtube.com/@SAUVLife",
   },
   {
-    name: "Activity 3",
+    name: "Sauv'Life",
     type: ActivityType.Watching,
   }
 ]
